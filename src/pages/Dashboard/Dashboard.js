@@ -653,6 +653,22 @@ function Dartboard() {
                     </h6>
                   </div>
                 </div>
+
+                <div
+                  class="card text-center ml-2 mt-1 col-md-1 "
+                  style={{ backgroundColor: "#2F9973" }}
+                >
+                  <div class="card-header" style={{ color: "#fff" }}>
+                    <h5>pulse</h5>
+                  </div>
+                  <div class="card-body">
+                    <h6 class="card-text" style={{ color: "#fff" }}>
+                      {datas.pulse}
+                    </h6>
+                  </div>
+                </div>
+
+                
               </div>
             </div>
           </div>
