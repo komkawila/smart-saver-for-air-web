@@ -16,11 +16,11 @@ function Navbar() {
           <img
             src="dist/img/logo.png"
             // src="dist/img/AdminLTELogo.png"
-            alt="STTSLIFE"
+            alt="SLIFE"
             className="brand-image img-circle elevation-3"
             style={{ opacity: ".8" }}
           />
-          <span className="brand-text font-weight-light">STTSLIFFE</span>
+          <span className="brand-text font-weight-light">SLIFFE</span>
         </div>
         {/* Sidebar */}
         <div className="sidebar">
