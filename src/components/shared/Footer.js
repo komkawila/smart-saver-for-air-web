@@ -4,8 +4,11 @@ function Footer() {
   return (
     <div>
       <footer className="main-footer">
-        <strong>
+        {/* <strong>
           Copyright © 2021 <a href="https://www.sttslife.co/">STT SUSTAINABLE LIFE CO., LTD </a>
+        </strong> */}
+        <strong>
+          Copyright © 2021
         </strong>
          All rights reserved.
         <div className="float-right d-none d-sm-inline-block">
